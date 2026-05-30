@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvonnect",
+        "uuid": 4539500,
+        "checksum": "nv3ncf"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
